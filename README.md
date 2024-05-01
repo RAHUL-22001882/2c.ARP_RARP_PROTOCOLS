@@ -37,7 +37,8 @@ while True:
         c.send("Not Found".encode())
  ```
 ## OUPUT - ARP
-<img src="image.png" width=800 height=200>
+![image](https://github.com/22009011/2c.ARP_RARP_PROTOCOLS/assets/118343461/f1d34331-584a-48eb-9a1f-b3d6140c9f81)
+
 
 ## PROGRAM - RARP
 ```py
@@ -50,7 +51,7 @@ while True:
     print("MAC address",s.recv(1024).decode())
 ```
 ## OUPUT -RARP
-<img src="image-1.png" width=800 height=200>
+![image](https://github.com/22009011/2c.ARP_RARP_PROTOCOLS/assets/118343461/526e0067-ba9c-496a-be5e-84cfffca8919)
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
